@@ -1,0 +1,12 @@
+*.recipe
+*.log
+*.pch
+*.db
+*.obj
+ApplyPap.vcxproj.FileListAbsolute.txt
+/ApplyPap/ApplyPap.vcxproj.user
+/.vs/ApplyPap/FileContentIndex/9aa57baf-81f3-4fd1-b01b-6643ee30c632.vsidx
+/.vs/ApplyPap/FileContentIndex/read.lock
+/.vs/ApplyPap/v17/Browse.VC.db-shm
+/.vs/ApplyPap/v17/Browse.VC.db-wal
+/.vs/ApplyPap/v17/Browse.VC.opendb
